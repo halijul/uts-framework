@@ -3,7 +3,7 @@ input:focus, button:focus {
 }
 
 body {
-  background-color: #A52A2A;
+  background-color: rgb(207, 224, 231);
 }
 
 .app {
@@ -52,7 +52,7 @@ body {
   margin-top: 10px;
 }
 .btn-remove {
-  background-color: #CD5C5C;
+  background-color: rgb(180, 238, 184);
   margin-left: 4px;
   border-radius: 50%;
   border: none;

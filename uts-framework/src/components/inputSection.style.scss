@@ -5,7 +5,7 @@
   
     input, textarea {
       min-width: 400px;
-      border: solid 1px pink;
+      border: solid 1px rgb(17, 3, 6);
       border-radius: 0.3em;
       padding: 0.5em;    
       margin: 0.5em;
@@ -17,9 +17,9 @@
       flex-direction: row;
       margin-top: 0.5em;
       button {
-        background-color: rgba(197, 44, 44, 0.63);
+        background-color: #000000(197, 44, 44, 0.63);
         border: none;
-        color: white;
+        color: #000000(17, 8, 14);
         font-size: 10pt;
         border-radius: 0.3em;
         padding: 0.5em;

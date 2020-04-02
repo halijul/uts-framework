@@ -173,7 +173,7 @@ function LoginPage() {
 
   return (
     <div>
-      <p>You must log in to view the page at {from.pathname}</p>
+      <h1>Anda harus login terlebih dahulu untuk masuk</h1>
       <button onClick={login}>Log in</button>
     </div>
   );
